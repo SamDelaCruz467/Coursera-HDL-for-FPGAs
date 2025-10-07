@@ -48,4 +48,5 @@ architecture behavioral of comparator2 is
 end behavioral;
 
 
+
     
